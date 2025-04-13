@@ -1,2 +1,2 @@
 # titanic-survival-predictor
-Portifólio
+Titanic - Machine Learning from Disaster
