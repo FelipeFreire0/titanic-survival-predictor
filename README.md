@@ -1,2 +1,2 @@
-# titanic-survivor-predictor
+# titanic-survival-predictor
 Portifólio
