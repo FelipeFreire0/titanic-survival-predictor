@@ -1,2 +1,2 @@
-# Projects
+# titanic-survivor-predictor
 Portifólio
